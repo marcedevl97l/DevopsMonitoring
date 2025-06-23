@@ -11,9 +11,9 @@ Este proyecto muestra cómo monitorear un servidor de Minecraft corriendo en Ubu
 - New Relic Infrastructure Agent
 - Bash, Screen
 
-## 🚀 Pasos de instalación
+## 🖥️ Dashboard de New Relic
 
-1. Clona este repositorio:
-```bash
-git clone https://github.com/tu-usuario/minecraft-observability-newrelic.git
-cd minecraft-observability-newrelic
+A continuación se muestra cómo se visualiza el estado del servidor Minecraft en New Relic:
+
+![Dashboard de ejemplo](screenshots/newrelic-dashboard.png)
+
