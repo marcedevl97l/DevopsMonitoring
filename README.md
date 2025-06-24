@@ -16,4 +16,6 @@ Este proyecto muestra cómo monitorear un servidor de Minecraft corriendo en Ubu
 A continuación se muestra cómo se visualiza el estado del servidor Minecraft en New Relic:
 
 ![Dashboard de ejemplo](screenshots/relic1.png)
+![Dashboard de ejemplo](screenshots/relic2.png)
+![Dashboard de ejemplo](screenshots/relic3.png)
 
